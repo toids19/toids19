@@ -53,4 +53,3 @@ My personal creative brand — providing event videos, music festival coverage, 
 
 ---
 
-> Bridging tech and creativity — one project at a time.
