@@ -32,8 +32,8 @@ My freelance creative brand — delivering event videos, commercials, and festiv
 ## 📫 Connect with Me
 
 - 🌐 [moldovanutudor.ro](https://moldovanutudor.ro)
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- ✉️ toids19@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/moldovanu-tudor-b162b2207/)
+- ✉️ contact@moldovanutudor.ro
 
 ---
 
