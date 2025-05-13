@@ -7,7 +7,7 @@
 
 ## 🚀 Featured Projects
 
-### 🌿 [Smart Garden](https://github.com/toids19/moldovanutudor/tree/main/Smart-Garden)
+### 🌿 [Smart Garden](https://github.com/toids19/smart-garden)
 An embedded system with master-slave Arduino controllers for environmental monitoring  
 **Tech:** Arduino, Sensors, C++
 
