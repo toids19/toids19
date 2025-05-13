@@ -7,17 +7,33 @@
 
 ## 🚀 Featured Projects
 
-### 🌿 [Smart Garden](https://github.com/toids19/smart-garden)
-An embedded system with master-slave Arduino controllers for environmental monitoring  
+### 🌿 [Smart Garden](https://github.com/toids19/smart-garden)  
+An embedded system with master-slave Arduino architecture for environmental monitoring and control.  
 **Tech:** Arduino, Sensors, C++
 
-### 🧠 AI Video Tagger *(Coming Soon)*
-An AI tool that helps video editors tag and organize footage using machine learning  
-**Tech:** Python, OpenCV, Scikit-learn
+---
 
-### 🎬 [MT CREATIVE MEDIA](https://moldovanutudor.ro)
-My freelance creative brand — delivering event videos, commercials, and festival media  
-**Tools:** Adobe Creative Suite (Premiere, After Effects, Photoshop)
+### 💊 [Medical Management System](https://github.com/toids19/medical-management-system)  
+A full-stack web platform for clinics and hospitals — supports patient tracking, OCR, chat, notifications, and PDF reporting.  
+**Tech:** Spring Boot, Thymeleaf, Java, JavaScript
+
+---
+
+### 💻 [macOS Benchmark](https://github.com/toids19/macos-benchmark)  
+A macOS-native benchmarking suite measuring CPU, RAM, disk, network, and system responsiveness — includes native C performance modules and Java GUI.  
+**Tech:** Java, Native C, Maven, Swing (FlatLaf)
+
+---
+
+### 🧠 [Speech-to-Text AI](https://github.com/toids19/speech-to-text-ai)  
+A lightweight speech recognition app powered by a custom OpenAI model for converting voice to text using `medium.pt`.  
+**Tech:** Python, PyTorch, Transformers
+
+---
+
+### 🎬 [MT CREATIVE MEDIA](https://moldovanutudor.ro)  
+My personal creative brand — providing event videos, music festival coverage, and corporate commercials.  
+**Tools:** Adobe Premiere Pro, After Effects, Photoshop
 
 ---
 
