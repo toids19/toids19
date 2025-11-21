@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tudor Moldovanu
 
-🎓 3rd-year Computer Science student @ [TUCN](https://www.utcluj.ro/en/)  
+🎓 4th-year Computer Science student @ [TUCN](https://www.utcluj.ro/en/)  
 💻 Passionate about **Web Development** & **Artificial Intelligence**  
 🎥 Founder of [MT CREATIVE MEDIA](https://moldovanutudor.ro)
 ---
